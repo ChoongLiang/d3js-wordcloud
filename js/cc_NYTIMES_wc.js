@@ -1,0 +1,1 @@
+var tags = [{"key": "mr", "value": 1576}, {"key": "also", "value": 683}, {"key": "financi", "value": 466}, {"key": "get", "value": 287}, {"key": "accord", "value": 270}, {"key": "ms", "value": 268}, {"key": "global", "value": 240}, {"key": "tri", "value": 205}, {"key": "corpor", "value": 184}, {"key": "european", "value": 183}] 

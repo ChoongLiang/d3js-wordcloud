@@ -1,0 +1,1 @@
+var tags = [{"key": "unitstate", "value": 301}, {"key": "lastyear", "value": 286}, {"key": "newyork", "value": 270}, {"key": "stockmarket", "value": 183}, {"key": "chiefexecut", "value": 182}, {"key": "Mrtrump", "value": 163}, {"key": "interestrate", "value": 156}, {"key": "SP500", "value": 155}, {"key": "realestat", "value": 142}, {"key": "thiyear", "value": 132}] 
